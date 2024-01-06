@@ -37,7 +37,7 @@ Features:
 - Micro USB connector for power and communication.
 - Several LEDs to indicate power and status.
 - Castellated holes connector for main MCU debugging.
-- BOOT button to enter the bootloader mode for flashing new picoprobe SW.
+- BOOTSEL button to enter the bootloader mode for flashing new picoprobe SW.
 - Pin-compatible with Raspberry Pi Debug Probe.
 - Double-sided assembly.
 

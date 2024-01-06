@@ -6,7 +6,7 @@
 
   (title_block
     (title "RP2040-PicoProbe-0010")
-    (date "2024-01-05")
+    (date "2024-01-06")
     (rev "1.0")
     (company "(c) 2024 Andriy Golovnya")
     (comment 1 "RP2040 based double-sided Pico Debug Probe")
